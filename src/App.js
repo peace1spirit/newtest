@@ -41,6 +41,8 @@ class App extends Component {
   render () {
     return (
       <div className='container' style={{ marginTop: 50 }}>
+
+      haloooooo
         <BootstrapTable
           striped
           hover
